@@ -84,7 +84,7 @@ A dedicated **RCV-MC.BOND** button opens the official site directly from the cli
 After downloading, you can verify the release file with this checksum:
 
 ```text
-dcbf3cc9232dbf402b92a91a42ebc8bab95db497393d9d2e98e850193fe3b837
+f3a20f9753dc503d50ed189076353a8dec796052731cb52cec0bcfc0ed934216
 ```
 
 Windows PowerShell:
