@@ -10,7 +10,7 @@
   <img alt="Version 1.0.0" src="https://img.shields.io/badge/VERSION-1.0.0-8B5CF6?style=for-the-badge&amp;labelColor=181026"/>
   <img alt="Minecraft 1.21.11" src="https://img.shields.io/badge/MINECRAFT-1.21.11-A78BFA?style=for-the-badge&amp;labelColor=181026"/>
   <img alt="Fabric" src="https://img.shields.io/badge/LOADER-FABRIC-8B5CF6?style=for-the-badge&amp;labelColor=181026"/>
-  <img alt="Beta" src="https://img.shields.io/badge/STATUS-BETA-B45309?style=for-the-badge&amp;labelColor=181026"/>
+  <img alt="Official Release" src="https://img.shields.io/badge/STATUS-OFFICIAL-7C3AED?style=for-the-badge&amp;labelColor=181026"/>
 </p>
 
 <a href="https://github.com/CJ-RCV/RCV-CLINTE/releases/download/v1.0.0/RCV-Client-1.0.0.jar">
@@ -72,7 +72,7 @@ A dedicated **RCV-MC.BOND** button opens the official site directly from the cli
 
 | Package | Minecraft | Channel | Download |
 |:--|:--:|:--:|:--|
-| **RCV-Client-1.0.0.jar** | **1.21.11** | **Beta** | **[Get the JAR](https://github.com/CJ-RCV/RCV-CLINTE/releases/download/v1.0.0/RCV-Client-1.0.0.jar)** |
+| **RCV-Client-1.0.0.jar** | **1.21.11** | **Official Release** | **[Get the JAR](https://github.com/CJ-RCV/RCV-CLINTE/releases/download/v1.0.0/RCV-Client-1.0.0.jar)** |
 
 **[View release information →](https://github.com/CJ-RCV/RCV-CLINTE/releases/tag/v1.0.0)**
 
@@ -139,7 +139,7 @@ Custom launchers can use a different game directory. In that case, open the dire
 | **Android / Zalith** | **Not verified**; JavaFX Windows components may not work |
 
 > [!WARNING]
-> **v1.0.0 is a beta release.** The JAR compiles successfully and passed archive-integrity checks, but it has **not yet completed real-device gameplay testing**. Please report issues you encounter.
+> **v1.0.0 is the official RCV Client release.** The JAR builds successfully and passed archive-integrity checks. **Full real-device gameplay testing remains pending**, so please report any issues you encounter.
 
 ## 🚀 What's improved in v1.0.0?
 
@@ -155,7 +155,7 @@ Custom launchers can use a different game directory. In that case, open the dire
 | 🌙 **Background performance** | Respect Minecraft's inactive-window FPS limiter |
 | 🧹 **Compatibility cleanup** | Removed an unused legacy mixin accessor |
 
-All original gameplay module implementations remain unchanged by this RCV customization.
+The RCV edition retains the original module selection and includes subsequent combat-cooldown, stability and UI-performance fixes.
 
 ## ❓ Frequently asked questions
 
@@ -188,9 +188,9 @@ Only where the server's rules allow them. RCV Client is intended for use in envi
 </details>
 
 <details>
-<summary><b>Is this a stable release?</b></summary>
+<summary><b>Is v1.0.0 an official release? Has it been fully tested?</b></summary>
 
-This is the initial **beta**. Its source compiled with Gradle and the distributable JAR passed archive-integrity verification. Gameplay stability must still be tested on your target system.
+**Yes, RCV Client v1.0.0 is the official GitHub release.** The source compiled with Gradle and the distributed JAR passed archive-integrity verification, but **in-game stability and FPS improvements have not been fully verified on real devices**.
 
 </details>
 
@@ -206,7 +206,7 @@ This is the initial **beta**. Its source compiled with Gradle and the distributa
 3. حمّل **[RCV-Client-1.0.0.jar](https://github.com/CJ-RCV/RCV-CLINTE/releases/download/v1.0.0/RCV-Client-1.0.0.jar)**.
 4. انقل الملف إلى مجلد **mods** وشغّل اللعبة من بروفايل Fabric.
 
-> **مهم:** لا تجمع ملف Remix الأصلي وملف RCV بنفس مجلد المودات. والنسخة حالياً تجريبية، ودعم Android بعده مو مؤكد.
+> **مهم:** لا تجمع ملف Remix الأصلي وملف RCV بنفس مجلد المودات. وهذا إصدار RCV الرسمي، لكن اختبار التشغيل الكامل ودعم Android بعدهم مو مؤكدين.
 
 **الموقع الرسمي:** [RCV-MC.BOND](https://rcv-mc.bond)
 
