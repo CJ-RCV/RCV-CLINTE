@@ -194,6 +194,24 @@ This is the initial **beta**. Its source compiled with Gradle and the distributa
 
 </details>
 
+## 🌍 دليل سريع بالعربي
+
+<details>
+<summary><b>افتح شرح تحميل وتشغيل RCV Client بالعربي</b></summary>
+
+**RCV Client 1.0.0** مخصص لـ **Minecraft Java 1.21.11** ويشتغل على **Fabric**.
+
+1. نزّل Minecraft Java **1.21.11** وثبّت **Fabric Loader**.
+2. نزّل **Fabric API** المتوافق ويا نفس إصدار ماين كرافت.
+3. حمّل **[RCV-Client-1.0.0.jar](https://github.com/CJ-RCV/RCV-CLINTE/releases/download/v1.0.0/RCV-Client-1.0.0.jar)**.
+4. انقل الملف إلى مجلد **mods** وشغّل اللعبة من بروفايل Fabric.
+
+> **مهم:** لا تجمع ملف Remix الأصلي وملف RCV بنفس مجلد المودات. والنسخة حالياً تجريبية، ودعم Android بعده مو مؤكد.
+
+**الموقع الرسمي:** [RCV-MC.BOND](https://rcv-mc.bond)
+
+</details>
+
 ## 📡 Support & links
 
 <div align="center">
