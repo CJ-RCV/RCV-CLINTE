@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="RCV Client — Purple Edition" src="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;color=0:110925,40:5020A7,100:9B5CF6&amp;section=header&amp;text=RCV%20CLIENT&amp;fontSize=66&amp;fontColor=FFFFFF&amp;fontAlignY=41&amp;desc=PURPLE%20EDITION%20%E2%80%A2%20MINECRAFT%20JAVA%201.21.11&amp;descSize=17&amp;descAlignY=65&amp;animation=fadeIn"/>
+<img width="100%" alt="RCV Client — Official Purple Banner" src="https://raw.githubusercontent.com/CJ-RCV/RCV-CLINTE/main/assets/rcv-banner.png" />
 
 ### A new look. A smoother experience. Your Minecraft, your style.
 
